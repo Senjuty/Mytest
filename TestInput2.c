@@ -80,5 +80,6 @@ int main()
 	nested_while_loop();
 	nested_do_while_loop();
 // no printf scanf function is allowed.
+	//only some changes are allowed.
 	return 0;
 }
