@@ -1,5 +1,6 @@
 #include <stdio.h>
 int addition=0, sub = 0, multi = 0;
+int apipo = 1;
 
 int add(int x, int y)
 {
@@ -78,8 +79,6 @@ int main()
 	nested_for_loop();
 	nested_while_loop();
 	nested_do_while_loop();
-	//printf("%d\n", addition);
-	//printf("%d\n",sub);
-	//printf("%d\n", multi);
+// no printf scanf function is allowed.
 	return 0;
 }
